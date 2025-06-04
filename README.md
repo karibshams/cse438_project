@@ -5,9 +5,9 @@ This repository contains the project work for **CSE 438** — likely focusing on
 📁 Project Structure
 
 cse438/
-├── folder1/
-├── folder2/
-├── folder3/
+├── lung_scc/
+├── lung_n/
+├── lung_aca/
 ├── DenseNET201_cus.ipynb
 ├── cse438_1_pre.ipynb
 ├── cse438kfold.ipynb
@@ -16,7 +16,7 @@ cse438/
 
 🧠 Project Description
 
-The project explores [brief summary — e.g., image classification, NLP, medical diagnosis, etc.]. The key components include:
+The project explores [brief summary — e.g., image classification medical diagnosis, etc.]. The key components include:
 
 - Data preprocessing and augmentation
 - Model training using custom or pretrained networks
